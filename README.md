@@ -1,2 +1,2 @@
 # zeno-goo
-app for dilivery and driver
+app for delivery and driver
